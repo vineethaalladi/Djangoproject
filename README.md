@@ -1,1 +1,1 @@
-# Djangoproject
+I have done the web development using Django... In this we create django app while using the commands....It is 3 day workshop we create apps,we set the cookies and session in django......we can import data from the database...I learned the Django very first time it will be great experience while learning the Django
